@@ -1,6 +1,7 @@
 {
     "powers":[
-        "races:2_strength_increase"
+        "races:2_strength_increase",
+        "subraces:dwarven_armor_training"
     ],
     "icon": "minecraft:stone",
     "order": 1,

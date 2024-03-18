@@ -6,5 +6,6 @@
         "selection:dnd"
     ],
     "name": "Origin",
-    "allow_random": true
+    "allow_random": true,
+    "load_priority": 1
 }

@@ -28,5 +28,6 @@
     "name": "Class",
     "allow_random": true,
     "missing_name": "None",
-    "missing_description": "You opted for a standard origins experience."
+    "missing_description": "You opted for a standard origins experience.",
+    "load_priority": 5
 }

@@ -26,5 +26,6 @@
     "name": "Draconic Ancestry",
     "allow_random": true,
     "missing_name": "None",
-    "missing_description": "You are not a dragonborn."
+    "missing_description": "You are not a dragonborn.",
+    "load_priority": 4
 }

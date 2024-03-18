@@ -1,6 +1,7 @@
 {
     "powers":[
-        "selection:qol"
+        "selection:qol",
+        "selection:proficiencies"
     ],
     "icon": "minecraft:iron_sword",
     "order": 1,

@@ -71,5 +71,6 @@
     "name": "Subrace",
     "allow_random": true,
     "missing_name": "None",
-    "missing_description": "You either opted for a standard origins experience, or your race does not have any subraces."
+    "missing_description": "You either opted for a standard origins experience, or your race does not have any subraces.",
+    "load_priority": 3
 }

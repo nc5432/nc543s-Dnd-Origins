@@ -26,5 +26,6 @@
         }
     ],
     "name": "Class",
-    "allow_random": true
+    "allow_random": true,
+    "load_priority": 2
 }
