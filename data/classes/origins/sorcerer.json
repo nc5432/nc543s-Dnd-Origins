@@ -1,0 +1,9 @@
+{
+    "powers":[
+    ],
+    "icon": "minecraft:fire_charge",
+    "order": 9,
+    "impact": 3,
+    "name": "Sorcerer",
+    "description": ""
+}

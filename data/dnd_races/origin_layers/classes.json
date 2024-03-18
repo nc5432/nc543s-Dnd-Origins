@@ -1,0 +1,32 @@
+{
+    "replace": false,
+    "order": 6,
+    "enabled": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "selection:dnd",
+                "layer": "type_select"
+            },
+            "origins":[
+                "classes:barbarian",
+                "classes:bard",
+                "classes:cleric",
+                "classes:druid",
+                "classes:fighter",
+                "classes:monk",
+                "classes:paladin",
+                "classes:ranger",
+                "classes:rogue",
+                "classes:sorcerer",
+                "classes:warlock",
+                "classes:wizard"
+            ]
+        }
+    ],
+    "name": "Class",
+    "allow_random": true,
+    "missing_name": "None",
+    "missing_description": "You opted for a standard origins experience."
+}

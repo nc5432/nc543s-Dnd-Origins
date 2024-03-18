@@ -1,0 +1,14 @@
+{
+    "powers":[
+        "races:2_constitution_increase",
+        "races:dwarven_height",
+        "races:25ft_speed",
+        "races:darkvision",
+        "races:dwarven_resilience"
+    ],
+    "icon": "minecraft:iron_pickaxe",
+    "order": 0,
+    "impact": 3,
+    "name": "Dwarf",
+    "description": "It's a dwarf get over it"
+}

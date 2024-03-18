@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "1_constitution_increase"
+    ],
+    "icon": "minecraft:andesite",
+    "order": 18,
+    "impact": 3,
+    "name": "Rock Gnome",
+    "description": "It's a rock gnome get over it"
+}

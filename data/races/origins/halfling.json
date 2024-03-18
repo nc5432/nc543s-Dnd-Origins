@@ -1,0 +1,12 @@
+{
+    "powers":[
+        "races:2_dexterity_increase",
+        "races:halfling_height",
+        "races:lucky"
+    ],
+    "icon": "minecraft:potato",
+    "order": 2,
+    "impact": 3,
+    "name": "Halfling",
+    "description": "It's a halfling get over it"
+}

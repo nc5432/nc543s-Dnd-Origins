@@ -1,0 +1,12 @@
+{
+    "type": "origins:entity_glow",
+    "bientity_condition":{
+        "type": "origins:can_see"
+    },
+    "use_teams": false,
+    "red": 0.1, 
+    "green": 0.5,
+    "blue": 0.1,
+    "name": "Keen Senses",
+    "description": "You have proficiency in the perception skill. Use your primary ability key to highlight nearby entities."
+}

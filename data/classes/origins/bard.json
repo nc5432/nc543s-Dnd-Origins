@@ -1,0 +1,9 @@
+{
+    "powers":[
+    ],
+    "icon": "minecraft:jukebox",
+    "order": 1,
+    "impact": 3,
+    "name": "Bard",
+    "description": ""
+}

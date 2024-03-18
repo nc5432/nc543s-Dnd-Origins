@@ -1,0 +1,13 @@
+{
+    "powers":[
+        "races:2_strength_increase",
+        "races:orcish_size",
+        "races:30ft_speed",
+        "races:darkvision"
+    ],
+    "icon": "minecraft:redstone",
+    "order": 7,
+    "impact": 3,
+    "name": "Half-Orc",
+    "description": "It's a half-orc get over it"
+}

@@ -1,0 +1,9 @@
+{
+    "powers":[
+    ],
+    "icon": "minecraft:nether_wart_block",
+    "order": 10,
+    "impact": 3,
+    "name": "Warlock",
+    "description": ""
+}

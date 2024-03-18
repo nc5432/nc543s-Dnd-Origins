@@ -1,0 +1,12 @@
+{
+    "powers":[
+        "races:1_wisdom_increase",
+        "subraces:fleet_of_foot",
+        "subraces:mask_of_the_wind"
+    ],
+    "icon": "minecraft:jungle_log",
+    "order": 3,
+    "impact": 3,
+    "name": "Wood Elf",
+    "description": "It's a wood elf get over it"
+}

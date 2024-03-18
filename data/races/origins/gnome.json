@@ -1,0 +1,14 @@
+{
+    "powers":[
+        "races:2_intelligence_increase",
+        "races:halfling_height",
+        "races:25ft_speed",
+        "races:darkvision",
+        "races:gnome_cunning"
+    ],
+    "icon": "minecraft:cobblestone",
+    "order": 5,
+    "impact": 3,
+    "name": "Gnome",
+    "description": "It's a gnome get over it"
+}

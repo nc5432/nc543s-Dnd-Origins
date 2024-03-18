@@ -1,0 +1,30 @@
+{
+    "replace": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "selection:standard",
+                "layer": "type_select"
+            },
+            "origins":[
+                "origins-classes:archer",
+                "origins-classes:beastmaster",
+                "origins-classes:blacksmith",
+                "origins-classes:cleric",
+                "origins-classes:cook",
+                "origins-classes:explorer",
+                "origins-classes:farmer",
+                "origins-classes:lumberjack",
+                "origins-classes:merchant",
+                "origins-classes:miner",
+                "origins-classes:nitwit",
+                "origins-classes:rancher",
+                "origins-classes:rogue",
+                "origins-classes:warrior"
+            ]
+        }
+    ],
+    "name": "Class",
+    "allow_random": true
+}

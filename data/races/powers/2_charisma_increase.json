@@ -1,0 +1,10 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "execute at @s as @e[type=villager,distance=..7] run data merge entity @s {Gossips:[{Target:[I;1,1,1,1],Type:'minor_positive',Value:40}]}"
+    },
+    "name": "Ability Score Increase",
+    "description": "Your charisma score increased by 2, improving your relations with villagers."
+}

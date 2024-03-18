@@ -1,0 +1,8 @@
+{
+    "powers":[],
+    "icon": "minecraft:grass_block",
+    "order": 0,
+    "impact": 1,
+    "name": "Standard",
+    "description": "You would like to select from a standard set of origins"
+}

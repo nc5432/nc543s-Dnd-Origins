@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "selection:qol"
+    ],
+    "icon": "minecraft:iron_sword",
+    "order": 1,
+    "impact": 3,
+    "name": "D&D",
+    "description": "You would like to select from the dungeons and dragons players handbook"
+}

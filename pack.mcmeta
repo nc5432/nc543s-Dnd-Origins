@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Adds in 2 origin layers based around the races and classes in Dungeons and Dragons",
+    "supported_formats": [9, 10, 12, 15, 18, 26]
+  }
+}

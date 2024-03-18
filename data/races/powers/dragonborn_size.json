@@ -1,0 +1,31 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_chosen":{
+        "type": "origins:and",
+        "actions":[
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:height 1.35"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:width 1.4"
+            }
+        ]
+    },
+    "entity_action_respawned":{
+        "type": "origins:and",
+        "actions":[
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:height 1.35"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:width 1.4"
+            }
+        ]
+    },
+    "name": "Size",
+    "description": "You're extremely tall (2.6 blocks)."
+}

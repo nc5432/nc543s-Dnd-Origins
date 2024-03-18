@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier":{
+        "attribute": "minecraft:generic.max_health",
+        "value": 2.5,
+        "operation": "addition"
+    },
+    "name": "Ability Score Increase",
+    "description": "Your constitution is increased by 1, granting you 2.5 extra hearts."
+}

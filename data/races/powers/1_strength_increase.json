@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier":{
+        "attribute": "minecraft:generic.attack_damage",
+        "value": 1,
+        "operation": "addition"
+    },
+    "name": "Ability Score Increase",
+    "description": "Your strength is increased by 1, letting you hit harder."
+}

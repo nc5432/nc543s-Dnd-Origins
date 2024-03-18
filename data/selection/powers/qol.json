@@ -1,0 +1,24 @@
+{
+    "type": "origins:multiple",
+    "step_up":{
+        "type": "origins:action_on_callback",
+        "entity_action_chosen":{
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:step_height 1.4"
+        },
+        "entity_action_respawned":{
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:step_height 1.4"
+        }
+    },
+    "reset":{
+        "type": "origins:action_on_callback",
+        "entity_action_lost":{
+            "type": "origins:execute_command",
+            "command": "scale reset"
+        }
+    },
+    "name": "QOL Tweaks",
+    "description": "This has various quality of life tweaks for players",
+    "hidden": true
+}

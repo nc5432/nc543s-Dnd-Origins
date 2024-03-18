@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_xp_gain",
+    "modifier":{
+        "operation": "multiply_base",
+        "value": 0.05
+    },
+    "name": "Ability Score Increase",
+    "description": "Your intelligence score is increased by 1, causing you to gain a little more xp."
+}

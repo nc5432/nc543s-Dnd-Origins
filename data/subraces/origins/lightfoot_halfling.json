@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "races:1_charisma_increase"
+    ],
+    "icon": "minecraft:feather",
+    "order": 5,
+    "impact": 3,
+    "name": "Lightfoot Halfling",
+    "description": "It's a lightfoot halflinga get over it"
+}

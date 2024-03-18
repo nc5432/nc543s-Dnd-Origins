@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "order": 0,
+    "enabled": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "selection:dnd",
+                "layer": "type_select"
+            },
+            "origins":[
+                "races:dwarf",
+                "races:elf",
+                "races:halfling",
+                "races:human",
+                "races:dragonborn",
+                "races:gnome",
+                "races:half-elf",
+                "races:half-orc",
+                "races:tiefling"
+            ]
+        }
+    ],
+    "name": "Race",
+    "allow_random": true,
+    "missing_name": "None",
+    "missing_description": "You opted for a standard origins experience."
+}

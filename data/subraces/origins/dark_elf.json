@@ -1,0 +1,11 @@
+{
+    "powers":[
+        "races:1_charisma_increase",
+        "subraces:sunlight_sensitivity"
+    ],
+    "icon": "minecraft:dark_oak_log",
+    "order": 4,
+    "impact": 3,
+    "name": "Drow",
+    "description": "It's a drow get over it"
+}

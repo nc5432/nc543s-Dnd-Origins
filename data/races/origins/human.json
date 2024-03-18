@@ -1,0 +1,16 @@
+{
+    "powers":[
+        "races:1_strength_increase",
+        "races:1_dexterity_increase",
+        "races:1_constitution_increase",
+        "races:1_intelligence_increase",
+        "races:1_wisdom_increase",
+        "races:1_charisma_increase",
+        "races:30ft_speed"
+    ],
+    "icon": "minecraft:dirt",
+    "order": 3,
+    "impact": 3,
+    "name": "Human",
+    "description": "It's a human get over it"
+}

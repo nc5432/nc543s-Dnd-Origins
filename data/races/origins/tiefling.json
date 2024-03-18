@@ -1,0 +1,14 @@
+{
+    "powers":[
+        "races:1_intelligence_increase",
+        "races:2_charisma_increase",
+        "races:30ft_speed",
+        "races:darkvision",
+        "races:hellish_resistance"
+    ],
+    "icon": "minecraft:netherrack",
+    "order": 8,
+    "impact": 3,
+    "name": "Tiefling",
+    "description": "It's a tiefling get over it"
+}

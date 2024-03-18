@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "selection:standard",
+                "layer": "type_select"
+            },
+            "origins":[
+                "origins:human",
+                "origins:avian",
+                "origins:arachnid",
+                "origins:elytrian",
+                "origins:shulk",
+                "origins:feline",
+                "origins:enderian",
+                "origins:merling",
+                "origins:blazeborn",
+                "origins:phantom"
+            ]
+        }
+    ],
+    "name": "Origin",
+    "allow_random": true
+}

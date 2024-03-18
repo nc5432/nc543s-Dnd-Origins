@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "1_dexterity_increase"
+    ],
+    "icon": "minecraft:moss_block",
+    "order": 17,
+    "impact": 3,
+    "name": "Forest Gnome",
+    "description": "It's a forest gnome get over it"
+}

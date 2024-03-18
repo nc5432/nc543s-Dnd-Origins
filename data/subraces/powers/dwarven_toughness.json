@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier":{
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": 4
+    },
+    "name": "Dwarven Toughness",
+    "description": "Your hit point maximum increases by 4 (2 hearts)."
+}

@@ -1,0 +1,11 @@
+{
+    "powers":[
+        "races:1_wisdom_increase",
+        "subraces:dwarven_toughness"
+    ],
+    "icon": "minecraft:grass_block",
+    "order": 0,
+    "impact": 3,
+    "name": "Hill Dwarf",
+    "description": "It's a hill dwarf get over it"
+}

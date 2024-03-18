@@ -1,0 +1,75 @@
+{
+    "replace": false,
+    "order": 1,
+    "enabled": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:dwarf",
+                "layer": "races"
+            },
+            "origins":[
+                "subraces:hill_dwarf",
+                "subraces:mountain_dwarf"
+            ]
+        },
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:elf",
+                "layer": "races"
+            },
+            "origins":[
+                "subraces:high_elf",
+                "subraces:wood_elf",
+                "subraces:dark_elf"
+            ]
+        },
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:halfling",
+                "layer": "races"
+            },
+            "origins":[
+                "subraces:lightfoot_halfling",
+                "subraces:stout_halfling"
+            ]
+        },
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:dragonborn",
+                "layer": "races"
+            },
+            "origins":[
+                "subraces:black_dragonborn",
+                "subraces:blue_dragonborn",
+                "subraces:brass_dragonborn",
+                "subraces:bronze_dragonborn",
+                "subraces:copper_dragonborn",
+                "subraces:gold_dragonborn",
+                "subraces:green_dragonborn",
+                "subraces:red_dragonborn",
+                "subraces:silver_dragonborn",
+                "subraces:white_dragonborn"
+            ]
+        },
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:gnome",
+                "layer": "races"
+            },
+            "origins":[
+                "subraces:forest_gnome",
+                "subraces:rock_gnome"
+            ]
+        }
+    ],
+    "name": "Subrace",
+    "allow_random": true,
+    "missing_name": "None",
+    "missing_description": "You either opted for a standard origins experience, or your race does not have any subraces."
+}

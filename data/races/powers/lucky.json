@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier":{
+        "attribute": "minecraft:generic.luck",
+        "value": 20,
+        "operation": "addition"
+    },
+    "name": "Lucky",
+    "description": "You are luckier than everyone else."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "condition":{
+        "type": "origins:exposed_to_sun"
+    },
+    "modifier":{
+        "operation": "multiply_base",
+        "value": -0.2
+    },
+    "name": "Sunlight Sensitivity",
+    "description": "You have disadvantage on attack rolls whenever you are in direct sunlight."
+}

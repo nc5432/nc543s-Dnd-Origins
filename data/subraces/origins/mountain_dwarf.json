@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "races:2_strength_increase"
+    ],
+    "icon": "minecraft:stone",
+    "order": 1,
+    "impact": 3,
+    "name": "Mountain Dwarf",
+    "description": "It's a mountain dwarf get over it"
+}

@@ -1,0 +1,15 @@
+{
+    "powers":[
+        "races:2_dexterity_increase",
+        "races:elven_height",
+        "races:30ft_speed",
+        "races:darkvision",
+        "races:keen_senses",
+        "races:fey_ancestry"
+    ],
+    "icon": "minecraft:bow",
+    "order": 1,
+    "impact": 3,
+    "name": "Elf",
+    "description": "It's an elf get over it"
+}

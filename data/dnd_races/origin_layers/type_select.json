@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "order": -10,
+    "origins":[
+        "selection:standard",
+        "selection:dnd"
+    ],
+    "name": "Origin",
+    "allow_random": true
+}

@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "order": 2,
+    "enabled": true,
+    "origins":[
+        {
+            "condition":{
+                "type": "origins:origin",
+                "origin": "races:dragonborn",
+                "layer": "races"
+            },
+            "origins":[
+                "draconic_ancestry:black_dragonborn",
+                "draconic_ancestry:blue_dragonborn",
+                "draconic_ancestry:brass_dragonborn",
+                "draconic_ancestry:bronze_dragonborn",
+                "draconic_ancestry:copper_dragonborn",
+                "draconic_ancestry:gold_dragonborn",
+                "draconic_ancestry:green_dragonborn",
+                "draconic_ancestry:red_dragonborn",
+                "draconic_ancestry:silver_dragonborn",
+                "draconic_ancestry:white_dragonborn"
+            ]
+        }
+    ],
+    "name": "Draconic Ancestry",
+    "allow_random": true,
+    "missing_name": "None",
+    "missing_description": "You are not a dragonborn."
+}

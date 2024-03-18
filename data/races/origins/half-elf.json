@@ -1,0 +1,15 @@
+{
+    "powers":[
+        "races:2_charisma_increase",
+        "races:1_dexterity_increase",
+        "races:1_wisdom_increase",
+        "races:30ft_speed",
+        "races:darkvision",
+        "races:fey_ancestry"
+    ],
+    "icon": "minecraft:oak_leaves",
+    "order": 6,
+    "impact": 3,
+    "name": "Half-Elf",
+    "description": "It's a half-elf get over it"
+}

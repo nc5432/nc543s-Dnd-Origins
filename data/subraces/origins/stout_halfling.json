@@ -1,0 +1,11 @@
+{
+    "powers":[
+        "races:1_constitution_increase",
+        "subraces:stout_resilience"
+    ],
+    "icon": "minecraft:stone_slab",
+    "order": 6,
+    "impact": 3,
+    "name": "Stout Halfling",
+    "description": "It's a stout halfling get over it"
+}

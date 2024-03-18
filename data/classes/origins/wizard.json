@@ -1,0 +1,9 @@
+{
+    "powers":[
+    ],
+    "icon": "minecraft:enchanted_book",
+    "order": 11,
+    "impact": 3,
+    "name": "Wizard",
+    "description": ""
+}

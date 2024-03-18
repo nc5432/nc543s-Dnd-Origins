@@ -1,0 +1,10 @@
+{
+    "powers":[
+        "races:1_intelligence_increase"
+    ],
+    "icon": "minecraft:gilded_blackstone",
+    "order": 2,
+    "impact": 3,
+    "name": "High Elf",
+    "description": "It's a high elf get over it"
+}

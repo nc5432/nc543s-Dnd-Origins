@@ -1,0 +1,12 @@
+{
+    "powers":[
+        "races:2_strength_increase",
+        "races:dragonborn_size",
+        "races:30ft_speed"
+    ],
+    "icon": "minecraft:dragon_breath",
+    "order": 4,
+    "impact": 3,
+    "name": "Dragonborn",
+    "description": "It's a dragonbron get over it"
+}
