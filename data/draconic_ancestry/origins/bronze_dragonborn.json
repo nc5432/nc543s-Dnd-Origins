@@ -1,5 +1,6 @@
 {
     "powers":[
+        "draconic_ancestry:lightning_resistance"
     ],
     "icon": "minecraft:orange_terracotta",
     "order": 10,

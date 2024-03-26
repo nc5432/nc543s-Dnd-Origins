@@ -1,0 +1,30 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition":{
+        "type": "origins:and",
+        "conditions":[
+            {
+                "type": "minecraft:name",
+                "name": "inFire"
+            },
+            {
+                "type": "origins:name",
+                "name": "onFire"
+            },
+            {
+                "type": "origins:name",
+                "name": "fireball"
+            },
+            {
+                "type": "origins:name",
+                "name": "lava"
+            }
+        ]
+    },
+    "modifier":{
+        "operation": "multiply_base",
+        "value": -0.5
+    },
+    "name": "Damage Resistance",
+    "description": "You are resistant to fire damage."
+}

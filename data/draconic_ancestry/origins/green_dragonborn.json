@@ -1,5 +1,6 @@
 {
     "powers":[
+        "draconic_ancestry:magic_resistance"
     ],
     "icon": "minecraft:green_terracotta",
     "order": 13,

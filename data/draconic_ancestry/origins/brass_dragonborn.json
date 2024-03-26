@@ -1,5 +1,6 @@
 {
     "powers":[
+        "draconic_ancestry:fire_resistance"
     ],
     "icon": "minecraft:yellow_terracotta",
     "order": 9,

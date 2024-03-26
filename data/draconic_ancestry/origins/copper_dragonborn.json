@@ -1,5 +1,6 @@
 {
     "powers":[
+        "draconic_ancestry:magic_resistance"
     ],
     "icon": "minecraft:copper_block",
     "order": 11,

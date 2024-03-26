@@ -1,5 +1,6 @@
 {
     "powers":[
+        "draconic_ancestry:fire_resistance"
     ],
     "icon": "minecraft:gold_block",
     "order": 12,
